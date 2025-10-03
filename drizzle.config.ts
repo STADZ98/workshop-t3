@@ -8,5 +8,5 @@ export default {
   dbCredentials: {
     url: env.DATABASE_URL,
   },
-  tablesFilter: ["workshop-app_*"],
+  tablesFilter: ["workshow-app_*"],
 } satisfies Config;
